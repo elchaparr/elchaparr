@@ -18,6 +18,5 @@ Here are some ideas to get you started:
 ## Ingerio apasionado a la programacion
 
 
-
-([https://media.giphy.com/media/xyz123/giphy.gif](https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC))
+(https://github.com/elchaparr/elchaparr/raw/main/200w.gif)
 
