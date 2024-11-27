@@ -29,10 +29,17 @@
 
 <h3 align="center"><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZiYjAwN2FhamJjZHprMnRrYjUxcWxzOTMyZjR1cWN0OWIwZGtxMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/daIfTnwGeY0J3zc1tg/giphy.gif" style="width: 40px;"></a><a style="margin-left: 10px;" target="_blank">Contact me</h3>
 
-<h3 align="center" ><img alingn="center" src="https://img.icons8.com/?size=100&id=61977&format=png&color=000000" style="width: 40px;"></a><a style="margin-left: 10px;" target="_blank"   href="https://elchaparr.github.io/Daniel-Reyes/">
-<img alingn="center" src="https://img.icons8.com/?size=100&id=kBCrQMzpQDLQ&format=png&color=000000" style="width: 40px;"></a><a style="margin-left: 10px;" target="_blank"   href="www.linkedin.com/in/oscar-daniel-reyes-perales-25b8b522b">
-<img alingn="center" src="https://img.icons8.com/?size=100&id=16713&format=png&color=000000" style="width: 40px;"></a><a style="margin-left: 10px;" target="_blank"   href="https://wa.me//528713337397"></h3>
+<div align="center"  class="icons-social" style="margin-left: 10px;">
+        <a style="margin-left: 10px;" target="_blank" href="https://elchaparr.github.io/Daniel-Reyes/">
+			<img alingn="center" src="https://img.icons8.com/?size=100&id=61977&format=png&color=000000" style="width: 40px;"></a>
+       <!-- <a style="margin-left: 10px;" target="_blank"   href="https://wa.link/8kqsb2">
+		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a> -->
+		<a style="margin-left: 10px;" target="_blank"        href="www.linkedin.com/in/oscar-daniel-reyes-perales-25b8b522b">
+				<img alingn="center" src="https://img.icons8.com/?size=100&id=kBCrQMzpQDLQ&format=png&color=000000" style="width: 40px;"></a>
 
+  <a style="margin-left: 10px;" target="_blank"         href="https://wa.me//528713337397">
+    <img alingn="center" src="https://img.icons8.com/?size=100&id=16713&format=png&color=000000" style="width: 40px;"></a>
+</div>
 
 </p>
 
