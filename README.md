@@ -4,7 +4,7 @@
 
 
 - Me gusta aprender nuevas cosas
-- Discapacitado que le gusta los nuevos retos
+- Discapacitado que le gusta los nuevos retos y superar mis limites
 - Actualmente estoy aprendiedo POWER BI, VUE y algunos framworks para PYTHON
 - Me gusta programar en backend como frontend
   
@@ -28,7 +28,8 @@
 </br>
 </br>
 
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://elchaparr.github.io/Daniel-Reyes/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+## <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZiYjAwN2FhamJjZHprMnRrYjUxcWxzOTMyZjR1cWN0OWIwZGtxMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/daIfTnwGeY0J3zc1tg/giphy.gif" style="width: 40px;"></a><a style="margin-left: 10px;" target="_blank"> Contactame
+
+<img src="https://img.icons8.com/?size=100&id=61977&format=png&color=000000" style="width: 40px;"></a><a style="margin-left: 10px;" target="_blank"   href="https://elchaparr.github.io/Daniel-Reyes/">
+<img src="https://img.icons8.com/?size=100&id=kBCrQMzpQDLQ&format=png&color=000000" style="width: 40px;"></a><a style="margin-left: 10px;" target="_blank"   href="www.linkedin.com/in/oscar-daniel-reyes-perales-25b8b522b">
+<img src="https://img.icons8.com/?size=100&id=16713&format=png&color=000000" style="width: 40px;"></a><a style="margin-left: 10px;" target="_blank"   href="https://wa.me//528713337397">
